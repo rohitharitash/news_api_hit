@@ -114,3 +114,6 @@ test_fuc()
 
 def __main__():
     test_fuc()
+
+def other():
+    return "test"
