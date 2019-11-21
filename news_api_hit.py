@@ -9,7 +9,7 @@ from pandas import ExcelWriter
 
 
 
-def test_fuc(error_function):
+def test_fuc():
 
     key1 = "8f44b094b7bb4ceebc6ba53d21cee940"
     #key2 = "1200edfb432f488cab980978a64c252e"
@@ -111,3 +111,6 @@ def test_fuc(error_function):
 
 
 test_fuc()
+
+def __main__():
+    test_fuc()
