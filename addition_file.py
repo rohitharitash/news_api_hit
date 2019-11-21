@@ -9,7 +9,7 @@ print("useless data")
 
 dataset = loadtxt('pima-indians-diabetes.csv', delimiter=',')
 # split into input (X) and output (y) variables
-X = dataset[:,0:8]
+X = dataset[:,0:6]
 y = dataset[:,8]
 
 
