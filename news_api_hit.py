@@ -2,8 +2,6 @@ import datetime
 import time
 from newsapi import NewsApiClient
 import pandas as pd
-from pandas import ExcelWriter
-
 
 
 
