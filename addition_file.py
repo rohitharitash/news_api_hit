@@ -13,7 +13,7 @@ X = dataset[:,0:8]
 y = dataset[:,8]
 
 
-
+print("useless1")
 
 # define the keras model
 model = Sequential()
